@@ -9,5 +9,6 @@ package trabajopractico2;
  * @author vanne
  */
 public class Castor {
+    String al;
     
 }
